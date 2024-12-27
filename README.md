@@ -1,2 +1,0 @@
-# newproject
-my first project
